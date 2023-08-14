@@ -181,10 +181,10 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url("../img/touring.jpg");
+	background-image: url("../img/guitar.jpg");
 	background-size: cover;
 	background-position: center center;
-	color: white;
+	color: #333;
 	padding: 0;
 	height: 3em;
 
@@ -204,7 +204,9 @@ HEADER STYLING
 		text-transform: uppercase;
 
 		a {
-			color: white;
+			background-color: rgb(245 245 220 / 50%);
+			color: #333;
+			padding-right: 0.5rem;
 			text-decoration: none;
 		}
 	}
