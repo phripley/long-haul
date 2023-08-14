@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: Notes for Songwriters
+description: Thoughts and Answers about the business of songwriting
 
-url: https://long-haul.netlify.app
+url: https://notesforsongwriters.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -25,13 +25,11 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
+    github: phripley
+    email: ripley@me.com
+    linkedin: peter-ripley
 
-google_analytics: "UA-58263416-1"
+google_analytics: "G-LX547JJYT3"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: 
