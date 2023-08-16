@@ -1,0 +1,20 @@
+presets:
+  default:
+    formats: [avif, jp2, webp, original]
+    widths: [200, 400, 800, 1600]
+    link_source: true
+
+  lazy:
+    markup: data_auto
+    widths: [200, 400, 800, 1600]
+    link_source: true
+    noscript: true
+
+image_options:
+      avif:
+        compression: av1
+        effort: 7 # Up to 9 from 0, 9=really slow
+      png:
+        compression: 9 # Up to 9, fast
+      webp:
+        effort: 5 # Up to 6 from 0, 4=default
