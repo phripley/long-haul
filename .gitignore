@@ -7,4 +7,4 @@ node_modules
 .jekyll-cache/*
 _vendor
 Gemfile.lock
-Gemfile.lock
+package-lock.json
