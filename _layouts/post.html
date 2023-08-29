@@ -3,9 +3,12 @@ layout: default
 ---
 <article class="post">
   {%- if page.image -%}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | append: page.image }}" alt="" />
-      </div>
+    <figure class="featuredImage">
+        {% picture "{{ '/assets/img/' | append: page.image }}" --alt "Some Alt Text" %}
+        {%- if page.caption -%}
+        <figcaption>{{page.caption}}</figcaption>
+        {%- endif -%}
+    </figure>
   {%- endif -%}
   <header>
     <h1 class="postTitle">{{ page.title }}</h1>
