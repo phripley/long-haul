@@ -2,9 +2,7 @@
 	<div class="container">
 		<p class="copy">
 			&copy; {{ site.time | date: '%Y' }} Peter Ripley |
-			Powered by <a href="http://jekyllrb.com">Jekyll</a> | 
-			Theme based on work by <a href="http://brianmaierjr.com">Brian Maier Jr.</a> 
-
+			Powered by <a href="http://jekyllrb.com">Jekyll</a>
 		</p>
 
 		<div class="footer-links">
@@ -15,6 +13,7 @@
 						href="https://www.facebook.com/{{ site.social.facebook }}"
 						target="_blank"
 						aria-label="Facebook"
+						rel=”noopener”
 					>
 						<svg
 							id="facebook-square"
@@ -47,6 +46,7 @@
 						href="https://twitter.com/{{ site.social.twitter }}"
 						target="_blank"
 						aria-label="Twitter"
+						rel=”noopener”
 					>
 						<svg
 							id="twitter"
@@ -79,6 +79,7 @@
 						href="https://www.linkedin.com/in/{{ site.social.linkedin }}"
 						target="_blank"
 						aria-label="LinkedIn"
+						rel=”noopener”
 					>
 						<svg
 							id="linkedin"
@@ -109,7 +110,8 @@
 				<li>
 					<a href="https://github.com/{{ site.social.github }}"
 						target="_blank"
-						aria-label="Git Hub"
+						aria-label="GitHub"
+						rel=”noopener”
 					>
 						<svg
 							id="github"
@@ -141,6 +143,7 @@
 					<a href="mailto:{{ site.social.email }}" 
 						target="_blank"
 					 	aria-label="Email"
+						 rel=”noopener”
 					>
 						<svg
 							id="mail"

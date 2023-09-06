@@ -181,6 +181,7 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
+	background-image: url("../img/guitar.jpg");
 	background-image: image-set(
 		url("../img/guitar.avif") type("image/avif"),
 		url("../img/guitar.jpg") type("image/jpeg")
@@ -227,33 +228,29 @@ POST STYLING
 	}
 
 	blockquote {
-		clear: both;
-		margin: 2.5em 0;
-		padding: 0;
-		line-height: 1.8;
-		position: relative;
-
+		background: #f9f9f9;
+		border-left: 6px solid #ccc;
+		font-style:italic;
+		margin: 1.5em 10px;
+		padding: 0.5em 10px;
+		quotes: "\201C""\201D""\2018""\2019";
+	  
 		&:before {
-			content: "";
-			position: absolute;
-			top: -1.25em;
-			background: $background-color;
-			display: block;
-			height: 2px;
-			width: 150px;
-			left: calc(50% - 75px);
+			color: #ccc;
+			content: open-quote;
+			font-size: 4em;
+			line-height: 0.1em;
+			margin-right: 0.25em;
+			vertical-align: -0.4em;
 		}
 
-		&:after {
-			content: "";
-			position: absolute;
-			bottom: -1.25em;
-			background: $background-color;
-			display: block;
-			height: 2px;
-			width: 150px;
-			left: calc(50% - 75px);
+		p {
+			margin-left: 10px;
+			margin-right: 0;
+			width: 100%;
 		}
+
+
 	}
 
 	.meta {
