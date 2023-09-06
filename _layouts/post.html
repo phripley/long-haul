@@ -4,7 +4,7 @@ layout: default
 <article class="post">
   {%- if page.image -%}
     <figure class="featuredImage">
-        {% picture "{{ '/assets/img/' | append: page.image }}" --alt "Some Alt Text" %}
+        {% picture "{{ '/assets/img/' | append: page.image }}" --alt Some Alt Text %}
         {%- if page.caption -%}
         <figcaption>{{page.caption}}</figcaption>
         {%- endif -%}
