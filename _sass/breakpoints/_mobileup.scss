@@ -231,7 +231,7 @@ POST STYLING
 		background: #f9f9f9;
 		border-left: 6px solid #ccc;
 		font-style:italic;
-		margin: 1.5em 10px;
+		margin: 1.5em 0px;
 		padding: 0.5em 10px;
 		quotes: "\201C""\201D""\2018""\2019";
 	  
@@ -506,6 +506,10 @@ DARK THEME STYLING
 	body {
 		background-color: $black;
 		color: white;
+	}
+
+	.post blockquote {
+		background-color: #222222;
 	}
 
 	.posts article .date {
