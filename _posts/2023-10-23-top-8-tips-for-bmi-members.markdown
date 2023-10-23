@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top 8 Tips for BMI Members"
-date:   2023-09-06
+date:   2023-10-23
 description: What I always wanted to tell members, new or old at BMI.
 ---
 
@@ -30,11 +30,13 @@ Bonus direct deposit tips:
 [BMI 101](https://www.bmi.com/creators/detail/bmi_workshops#bmi101) is basically a Zoom meeting where a friendly person in the Creative department gives an overview of how BMI works for members who are writers and publishers.  Classes are generally held once each month.  You can learn a lot, get your questions answered and have a  little facetime with a BMI Creative executive.
 
 ### Follow BMI on social media
-Follow 
+Follow BMI on twitter, insta, youtube, facebook...
 
 
 ### Subscribe to BMI Newsletters
 There are two BMI newsletters:  [_MusicWorld_](https://www.bmi.com/musicworld) which is published monthly and [_The Weekly_](https://www.bmi.com/special/weekly) which is published... weekly.  _MusicWorld_ tends to have more first party, longer form content and also covers covers some licnesing activities while _The Weekly_ has 5 shorter stories from a variety of sources.
+
+Bonus tip (?): There is also a newsletter called "The Hook" that comes out of the NY and LA office.  Mysteriously there is no interface to subscribe to it.
 
 ### Keep your email and mailing address up to date, your heirs will thank you!
 Whether you are getting your payments, statements and tax forms electronically or by mail you really need to keep you contact details up to date.  Again, this is best done on a desktop computer or tablet! Every year there are members who move or even die and then BMI can't figure out how to pay them!  Like all companies in the US BMI holds on to the money for a while and then eventually has to turn it over to the state.  The BMI site contains [a short list of missing members](https://www.bmi.com/estates) who are owed money but there are many more out there.  Don't let this be you.
