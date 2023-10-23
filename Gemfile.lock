@@ -35,6 +35,8 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jekyll_picture_tag (2.0.4)
@@ -65,7 +67,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (4.0.1)
+    rouge (3.30.0)
     ruby-vips (2.0.17)
       ffi (~> 1.9)
     safe_yaml (1.0.5)
@@ -91,6 +93,7 @@ DEPENDENCIES
   http_parser
   jekyll (~> 4.0)
   jekyll-paginate
+  jekyll-sitemap
   jekyll_picture_tag (~> 2.0)
   support-for
   webrick (~> 1.8, >= 1.8.1)
