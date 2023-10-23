@@ -85,10 +85,11 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  arm64-darwin-23
 
 DEPENDENCIES
   http_parser
-  jekyll
+  jekyll (~> 4.0)
   jekyll-paginate
   jekyll_picture_tag (~> 2.0)
   support-for
