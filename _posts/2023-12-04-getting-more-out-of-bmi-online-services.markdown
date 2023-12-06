@@ -3,6 +3,8 @@ layout: post
 title:  "Getting More Out of BMI Online Services"
 date:   2023-12-04
 description: How to actually get stuff done as a songwriter on BMI’s website.
+image:
+meta-image: getting-more-out-of-bmi-online-services-ols_desktop_landing.png
 ---
 
 <p class="intro"><span class="dropcap">A</span>s most members will know, BMI has a suite of tools called "Online Services" aimed a Songwriters and Publishers.</p>

@@ -50,9 +50,9 @@
 	<meta content="{{ site.url }}/about/" property="article:author" >
 {%- endif -%}
 
-{%- if page.image -%}
+{%- if page.meta-image -%}
 	<meta
-		content="{{ site.url }}/assets/img/{{ page.image }}"
+		content="{{ site.url }}/assets/img/{{ page.meta-image }}"
 		property="og:image"
 	>
 	{%- else -%}
@@ -61,13 +61,12 @@
 		property="og:image"
 	>  
 {%- endif -%}
-  
 	<!-- Twitter Cards -->  
 	<meta name="twitter:card" content="summary" >
 	<meta name="twitter:site" content="@{{ site.social.twitter }}" >
 	<meta name="twitter:creator" content="@{{ site.social.twitter }}" >
 	{%- if page.title -%}
-	<meta name="twitter:title" content="{{ page.title }}" >
+	<meta name="twitter:title" content="{{ page.title }}" >  
 	{%- else -%}
 	<meta name="twitter:title" content="{{ site.title }}" >
 	{%- endif -%} {%- if page.url -%}
@@ -76,10 +75,10 @@
 	<meta name="twitter:description" content="{{ page.description }}" >
 	{%- else -%}
 	<meta name="twitter:description" content="{{ site.description }}" >
-	{%- endif -%} {%- if page.image -%}
+	{%- endif -%} {%- if page.meta-image -%}
 	<meta
 		name="twitter:image:src"
-		content="{{ site.url }}/assets/img/{{ page.image }}"
+		content="{{ site.url }}/assets/img/{{ page.meta-image }}"
 	>
 	{%- else -%}
 	<meta
