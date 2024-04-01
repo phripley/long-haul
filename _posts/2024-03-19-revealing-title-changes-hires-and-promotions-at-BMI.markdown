@@ -7,7 +7,7 @@ image:
 meta-image: 
 ---
 
-<p class="intro"><span class="dropcap">E</span>ver since BMI decided to turn "for-profit" and then <a href="https://www.bmi.com/press/entry/589541">closed the deal with New Mountain Capital</a> folks have wondered what it will mean for the organization …will it be good or bad for music users, songwriters, composers and publishers?</p>
+Ever since BMI decided to turn "for-profit" and then <a href="https://www.bmi.com/press/entry/589541">closed the deal with New Mountain Capital</a> folks have wondered what it will mean for the organization …will it be good or bad for music users, songwriters, composers and publishers?
 
 Of course BMI itself has been tolling the vitues of the arrangement and offered some sweeteners to members.  Others seem to think it's further evidence of "enshitification" of everything good.  I, myself, have been taking a wait-and-see approach with some high hopes and a few concerns.
 

@@ -7,10 +7,10 @@ image:
 meta-image: getting-more-out-of-bmi-online-services-ols_desktop_landing.png
 ---
 
-<p class="intro"><span class="dropcap">A</span>s most members will know, BMI has a suite of tools called "Online Services" aimed a Songwriters and Publishers.</p>
+As most members will know, BMI has a suite of tools called "Online Services" aimed at Songwriters and Publishers.
 
 ### How you access them matters!
-These tools have a bunch of different ways to access them and surprisingly how you access them will determine which tools in the suite you will have access to!  And you might not even know which ones you are missing...
+These tools have a bunch of different ways to access them and surprisingly <em>how</em> you access them will determine which tools in the suite you will have access to!  And you might not even know which ones you are missing...
 
 <strong>TL/DR:</strong> You probably should use the desktop website for pretty much everything... read on for the full story.
 
@@ -44,7 +44,7 @@ The <em>mobile website</em> login looks like this:
 
 And once you are logged in you'll see something like this:
 
-![mobile landing](/getting-more-out-of-bmi-online-services-ols_mobile_landing.png)
+![mobile landing](/assets/img/getting-more-out-of-bmi-online-services-ols_mobile_landing.png)
 
 The <em>mobile App</em> login looks like this:
 
@@ -250,8 +250,8 @@ Here's a table showing exactly which features are available on which platform:
 </tbody>
 </table>
 
-That's a long list (I hope to do a future write up explaining them all), but from this you can see that <strong>you really need a desktop computer (or a decent tablet) to get work done on BMI Online services</strong>.  The only thing that the mobile App has going for it is push notifications (you can get message via email anyway) and GPS for BMI Live, which is handy but in my experience the list of venues returned it out of date anyway.
+That's a long list (I hope to do a future write up explaining them all), but from this you can see that <strong>you really need a desktop computer (or a decent tablet) to get work done on BMI Online services</strong>.  The only thing that the mobile App has going for it is push notifications (you can get messages via email anyway) and GPS for BMI Live, which is handy but in my experience the list of venues returned is out of date anyway.
 
-While it is technically possible to use the desktop site with a phone I have found the the user experience to be poor with lots of side to side scrolling and other glitches.
+While it is technically possible to use the desktop site with a phone I have found the the user experience to be poor with lots of side-to-side scrolling and other glitches.
 
 I hope BMI members will find this useful!  If you have a comment please <a href="/contact/">let me know</a>.

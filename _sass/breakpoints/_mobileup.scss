@@ -221,6 +221,20 @@ POST STYLING
 ***************/
 
 .post {
+
+	>p {
+		&:first-of-type {
+		font-size: 1.25em;
+		line-height: 1.7;
+		&:first-letter {
+			color: $primary-color;
+			padding-right: .4rem;
+			-webkit-initial-letter: 2;
+			initial-letter: 2;
+			}
+		}
+	}
+	
 	.postTitle {
 		text-align: center;
 		margin-top: 2rem;
@@ -283,11 +297,6 @@ POST STYLING
 	.highlight {
 		clear: both;
 		margin-bottom: 2rem;
-	}
-
-	.dropcap {
-		color: $primary-color;
-		margin-right: 0.45rem;
 	}
 
 	.featuredImage {

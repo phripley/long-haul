@@ -6,7 +6,7 @@ title: About Notes for Songwriters
 <div class="post">
 	<h1 class="pageTitle">About <em>Notes for Songwriters</em></h1>
 	{% picture jpt-webp assets/img/guitar.jpg %}
-	<p class="intro">Hi, I'm <a href="https://www.linkedin.com/in/peter-ripley/">Peter Ripley!</a></p>
+	<p>Hi, I'm <a href="https://www.linkedin.com/in/peter-ripley/">Peter Ripley!</a></p>
 	<p>I was on staff at BMI for 12 years and consulted there for many years before that.  I loved having the mission at BMI of helping creative people lead a creative life (Royalties for Songwriters, ka-ching!).</p>
 
 	<p>I worked as the tech lead in the BMI Marketing Communications department and had a hand in many (most?) digital inititives over the years.</p>

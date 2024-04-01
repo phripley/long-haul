@@ -5,7 +5,7 @@ date:   2023-10-23
 description: What I always wanted to tell members, new or old at BMI.
 ---
 
-<p class="intro"><span class="dropcap">W</span>hen I was on staff at BMI I didn't have direct communication with BMI members as part of my job.  And I only had had limited advisory responsibility for editorial content.  BUT over the years I learned a lot and felt like I had some secrets to share.  Here they are:</p>
+When I was on staff at BMI I didn't have direct communication with BMI members as part of my job.  And I only had had limited advisory responsibility for editorial content.  BUT over the years I learned a lot and felt like I had some secrets to share.  Here they are:
 
 ### Register your songs!
 Believe it or not an awful lot of people don't understand this.  Writers wonder why they aren't getting paid yet they have never registered their musical works.  You must register each of your songs to be elegible to be paid.  The process is somewhat confusing, thankfully there's [a helpful video walk-through](https://www.youtube.com/watch?v=bfzWF7FF0zo).  You can't currently do this on the BMI Mobile App, and the interface is not great on a phone.  _Best to do it on a desktop or tablet_!
