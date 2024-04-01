@@ -40,19 +40,19 @@ And once you are logged in you'll see a landing page like this:
 
 The <em>mobile website</em> login looks like this:
 
-<img src="/assets/img/getting-more-out-of-bmi-online-services-ols_mobile_login.png" alt="mobile login">
+![mobile login](/assets/img/getting-more-out-of-bmi-online-services-ols_mobile_login.png)
 
 And once you are logged in you'll see something like this:
 
-<img src="/assets/img/getting-more-out-of-bmi-online-services-ols_mobile_landing.png" alt="mobile landing">
+![mobile landing](/getting-more-out-of-bmi-online-services-ols_mobile_landing.png)
 
 The <em>mobile App</em> login looks like this:
 
-<img src="/assets/img/getting-more-out-of-bmi-online-services-ols_app_login.png" alt="app login"> 
+![app login](/assets/img/getting-more-out-of-bmi-online-services-ols_app_login.png)
 
 And once you are logged in you'll see something like this:
 
-<img src="/assets/img/getting-more-out-of-bmi-online-services-ols_app_landing.png" alt="app landing">
+![app landing](/assets/img/getting-more-out-of-bmi-online-services-ols_app_landing.png)
 
 <em>At the time of this writing a number of features giving errors on the iOS version of the App, including the terms and conditions, news, FAQs, payment dates and privacy policy.</em>
 
